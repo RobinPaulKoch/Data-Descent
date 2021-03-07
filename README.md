@@ -1,2 +1,2 @@
 # Data-Descent
-For now this repository holds supportive scripts and functions for a front-end dashboard which shows data dependencies. 
+A example app in Python Dash is in development. For now this project just hosts auxiliary functions that can be used when working with nodes and edges when using Cytoscape networks to visualize data lineage.
